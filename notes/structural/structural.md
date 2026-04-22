@@ -1,4 +1,4 @@
-#2. Structural Design Patterns
+# 2. Structural Design Patterns
 
 These manage how classes and objects are combined for complex structures.
 
