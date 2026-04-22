@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Adapter Design Pattern
 
 ## Overview
@@ -53,6 +52,3 @@ public class StripeAdapter implements PaymentProcessor {
 ```
 
 By doing this, the client can seamlessly execute `processor.makePayment(150.00)` without needing to understand the underlying complexities of Stripe, Google Pay, or PayPal. New gateways can be added simply by creating a new `Adapter` class without modifying the client logic.
-=======
-# Adapter
->>>>>>> 7897d8852adb371241f5bdbbdb64afbd3f43740e
