@@ -1,4 +1,4 @@
-#3.Behavioral Design Patterns
+# 3.Behavioral Design Patterns
 
 These manage communication and responsibility between objects.
 
