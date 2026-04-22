@@ -3,6 +3,8 @@
 ## Overview
 The **Adapter Design Pattern** is a structural pattern that allows objects with incompatible interfaces to collaborate. It acts as a bridge between two incompatible interfaces by wrapping an existing class with a new interface so that it becomes compatible with the client's interface.
 
+<img width="777" height="290" alt="image" src="https://github.com/user-attachments/assets/468d724e-f197-4bde-925f-47e3512197c8" />
+
 ## Key Components
 1. **Target**: Defines the domain-specific interface that the client uses.
 2. **Adapter**: Adapts the interface of the Adaptee to the Target interface.
